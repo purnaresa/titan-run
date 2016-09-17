@@ -1,0 +1,1020 @@
+[20-Jul-2016 22:13:53 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[20-Jul-2016 22:15:14 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[20-Jul-2016 22:29:08 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[20-Jul-2016 22:29:42 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[20-Jul-2016 22:30:09 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[20-Jul-2016 22:30:18 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 74
+[20-Jul-2016 22:30:19 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/views/payments/checkout.php on line 94
+[20-Jul-2016 22:32:21 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[20-Jul-2016 22:36:13 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[20-Jul-2016 22:40:26 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 74
+[20-Jul-2016 22:40:27 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/views/payments/checkout.php on line 94
+[21-Jul-2016 00:13:45 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:23:22 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:26:32 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:26:36 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:31:59 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:32:41 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:35:11 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:35:29 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:35:43 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:39:01 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:41:57 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:43:12 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:43:56 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:49:22 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:49:43 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:50:33 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:52:26 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:53:34 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:54:10 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:57:18 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 00:57:56 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:00:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:02:18 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:04:54 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:05:07 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:07:52 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:08:58 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:09:35 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:11:57 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:14:32 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:17:23 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:20:12 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:21:44 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:22:34 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:22:54 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:24:41 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:25:12 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:25:34 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:29:10 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:30:59 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:36:29 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:36:47 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:38:02 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:39:15 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:40:41 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:42:07 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 01:42:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 10:10:08 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:10:08 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:10:08 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[21-Jul-2016 10:14:10 Asia/Jakarta] PHP Notice:  Undefined index: province_id in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 27
+[21-Jul-2016 10:14:10 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:14:10 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:14:10 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[21-Jul-2016 10:17:07 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 112
+[21-Jul-2016 10:17:07 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 113
+[21-Jul-2016 10:17:07 Asia/Jakarta] PHP Notice:  Undefined index: city_id in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 115
+[21-Jul-2016 10:17:07 Asia/Jakarta] PHP Notice:  Undefined index: province_id in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 116
+[21-Jul-2016 10:17:07 Asia/Jakarta] PHP Notice:  Undefined index: post_code in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 117
+[21-Jul-2016 10:17:07 Asia/Jakarta] PHP Notice:  Undefined index: phone in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 118
+[21-Jul-2016 10:17:07 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[21-Jul-2016 10:17:50 Asia/Jakarta] PHP Notice:  Undefined index: code in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 31
+[21-Jul-2016 10:17:50 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 34
+[21-Jul-2016 10:17:50 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 34
+[21-Jul-2016 10:17:50 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 36
+[21-Jul-2016 10:17:50 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 36
+[21-Jul-2016 10:17:50 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 38
+[21-Jul-2016 10:17:50 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 38
+[21-Jul-2016 10:17:50 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 41
+[21-Jul-2016 10:17:50 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 41
+[21-Jul-2016 10:17:51 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[21-Jul-2016 10:18:26 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[21-Jul-2016 10:28:39 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 92
+[21-Jul-2016 10:28:39 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'dob' cannot be null' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php:333
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php(333): PDOStatement->execute(Array)
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Table.php(360): ActiveRecord\Connection->query('INSERT INTO `me...', Array)
+#2 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(842): ActiveRecord\Table->insert(Array)
+#3 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(797): ActiveRecord\Model->insert(true)
+#4 /home/mockup/public_html/EmptySite/controllers/UsersController.php(125): ActiveRecord\Model->save()
+#5 [internal function]: UsersController->register()
+#6 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#7 /home/ in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php on line 336
+[21-Jul-2016 10:30:03 Asia/Jakarta] PHP Notice:  Undefined index: province_id in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 94
+[21-Jul-2016 10:30:03 Asia/Jakarta] PHP Notice:  Undefined index: city_id in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 95
+[21-Jul-2016 10:36:25 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 10:36:25 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 10:36:46 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 10:36:46 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 10:37:54 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 92
+[21-Jul-2016 10:37:54 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/register.php on line 178
+[21-Jul-2016 10:40:15 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 88
+[21-Jul-2016 10:40:24 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/setting.php on line 59
+[21-Jul-2016 10:40:24 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/setting.php on line 195
+[21-Jul-2016 10:43:53 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/setting.php on line 59
+[21-Jul-2016 10:43:53 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/setting.php on line 195
+[21-Jul-2016 10:44:01 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/setting.php on line 59
+[21-Jul-2016 10:44:01 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/setting.php on line 195
+[21-Jul-2016 10:44:49 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/setting.php on line 59
+[21-Jul-2016 10:44:49 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/setting.php on line 195
+[21-Jul-2016 10:45:35 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:45:35 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:45:35 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[21-Jul-2016 10:47:09 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:47:09 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:47:09 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[21-Jul-2016 10:47:28 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:47:28 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:47:28 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[21-Jul-2016 10:49:07 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:49:07 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:49:07 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[21-Jul-2016 10:49:18 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:49:18 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 10:49:18 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[21-Jul-2016 11:21:19 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 11:21:19 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 11:21:19 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[21-Jul-2016 11:21:27 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 11:21:27 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 11:21:27 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[21-Jul-2016 11:22:01 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 11:22:01 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[21-Jul-2016 11:22:01 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[21-Jul-2016 11:22:49 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 113
+[21-Jul-2016 11:22:49 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php:333
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php(333): PDOStatement->execute(Array)
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Table.php(360): ActiveRecord\Connection->query('INSERT INTO `ra...', Array)
+#2 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(842): ActiveRecord\Table->insert(Array)
+#3 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(797): ActiveRecord\Model->insert(true)
+#4 /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php(139): ActiveRecord\Model->save()
+#5 [internal function]: ParticipantsController->racePackRegister()
+#6 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php on line 336
+[21-Jul-2016 11:23:20 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 113
+[21-Jul-2016 11:23:20 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php:333
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php(333): PDOStatement->execute(Array)
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Table.php(360): ActiveRecord\Connection->query('INSERT INTO `ra...', Array)
+#2 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(842): ActiveRecord\Table->insert(Array)
+#3 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(797): ActiveRecord\Model->insert(true)
+#4 /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php(139): ActiveRecord\Model->save()
+#5 [internal function]: ParticipantsController->racePackRegister()
+#6 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php on line 336
+[21-Jul-2016 11:45:15 Asia/Jakarta] PHP Notice:  Undefined variable: voucher_code in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 63
+[21-Jul-2016 12:15:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 123
+[21-Jul-2016 13:13:02 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 113
+[21-Jul-2016 13:13:02 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php:333
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php(333): PDOStatement->execute(Array)
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Table.php(360): ActiveRecord\Connection->query('INSERT INTO `ra...', Array)
+#2 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(842): ActiveRecord\Table->insert(Array)
+#3 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(797): ActiveRecord\Model->insert(true)
+#4 /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php(139): ActiveRecord\Model->save()
+#5 [internal function]: ParticipantsController->racePackRegister()
+#6 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php on line 336
+[21-Jul-2016 13:19:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 90
+[21-Jul-2016 14:12:52 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 88
+[21-Jul-2016 14:12:52 Asia/Jakarta] PHP Fatal error:  Call to undefined function sendEmail() in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 94
+[21-Jul-2016 14:14:23 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 26
+[21-Jul-2016 14:14:23 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 88
+[21-Jul-2016 14:14:23 Asia/Jakarta] PHP Fatal error:  Call to undefined function sendEmail() in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 94
+[21-Jul-2016 14:15:42 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 26
+[21-Jul-2016 14:15:42 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 88
+[21-Jul-2016 14:15:42 Asia/Jakarta] PHP Fatal error:  Call to undefined function sendEmail() in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 94
+[21-Jul-2016 14:16:38 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 26
+[21-Jul-2016 14:16:38 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 88
+[21-Jul-2016 14:16:38 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\UndefinedPropertyException' with message 'Undefined property: Payment->created_at in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php on line 540' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php:540
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('created_at')
+#1 /home/mockup/public_html/EmptySite/controllers/PaymentsController.php(252): ActiveRecord\Model->__get('created_at')
+#2 /home/mockup/public_html/EmptySite/controllers/PaymentsController.php(94): PaymentsController->sendEmail(Object(Member), Object(Participant), Object(Payment))
+#3 [internal function]: PaymentsController->process()
+#4 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#5 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#6 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php on line 540
+[21-Jul-2016 14:18:28 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 26
+[21-Jul-2016 14:18:28 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 88
+[21-Jul-2016 14:18:28 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 288
+[21-Jul-2016 14:18:29 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/views/payments/checkout.php on line 94
+[21-Jul-2016 14:25:20 Asia/Jakarta] PHP Notice:  Undefined variable: shuttle_price in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 103
+[21-Jul-2016 14:25:20 Asia/Jakarta] PHP Notice:  Undefined variable: shuttle_price in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 124
+[21-Jul-2016 14:25:20 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 124
+[21-Jul-2016 14:31:18 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 14:31:18 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 14:31:18 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 14:31:27 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 14:31:27 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 14:31:27 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 14:31:29 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 14:31:29 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 14:31:29 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 14:31:45 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 14:31:45 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 14:31:45 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 14:33:18 Asia/Jakarta] PHP Notice:  Undefined variable: shuttle_price in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 108
+[21-Jul-2016 14:33:18 Asia/Jakarta] PHP Notice:  Undefined variable: shuttle_price in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 129
+[21-Jul-2016 14:33:18 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/views/race_packs/paymentlist.php on line 129
+[21-Jul-2016 14:33:31 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 26
+[21-Jul-2016 14:33:31 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 88
+[21-Jul-2016 14:33:31 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 288
+[21-Jul-2016 14:33:32 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/views/payments/checkout.php on line 94
+[21-Jul-2016 14:36:35 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 14:36:35 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 14:40:09 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 14:40:09 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 14:43:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mockup/public_html/EmptySite/views/users/show.php on line 192
+[21-Jul-2016 14:43:33 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 14:43:33 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 14:43:33 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/mockup/public_html/EmptySite/views/users/show.php on line 192
+[21-Jul-2016 14:43:33 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, boolean given in /home/mockup/public_html/EmptySite/views/users/show.php on line 192
+[21-Jul-2016 14:44:17 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 14:44:17 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 14:44:17 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(192): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 14:44:41 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 14:44:41 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 14:44:41 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(192): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 14:45:45 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 14:45:45 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 14:45:45 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(192): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 14:46:01 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 14:46:01 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 14:47:00 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 14:47:00 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 14:47:37 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 14:47:37 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 14:47:37 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(589): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 14:56:45 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 14:56:45 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 14:56:45 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 169
+[21-Jul-2016 14:56:45 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 171
+[21-Jul-2016 14:56:45 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(593): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:00:19 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 15:00:19 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 15:00:19 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(169): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:01:23 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 15:01:23 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 15:01:23 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 169
+[21-Jul-2016 15:01:23 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 170
+[21-Jul-2016 15:01:23 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(594): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:02:50 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 15:02:50 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 15:02:50 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(170): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:03:57 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(7): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:04:29 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 15:04:29 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 15:04:29 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(170): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:05:02 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 15:05:02 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 15:05:02 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 169
+[21-Jul-2016 15:05:02 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 171
+[21-Jul-2016 15:05:02 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(593): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:05:57 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 15:05:57 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 15:05:57 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(169): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(222): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:07:24 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/controllers/UsersController.php(198): ActiveRecord\Model->__get('payments')
+#3 [internal function]: UsersController->profile()
+#4 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#5 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#6 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:08:36 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 126
+[21-Jul-2016 15:08:36 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 160
+[21-Jul-2016 15:08:36 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 169
+[21-Jul-2016 15:08:36 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 171
+[21-Jul-2016 15:08:36 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/views/users/show.php(593): ActiveRecord\Model->__get('payments')
+#3 /home/mockup/public_html/EmptySite/controllers/UsersController.php(223): include('/home/mockup/pu...')
+#4 [internal function]: UsersController->profile()
+#5 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#6 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#7 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:23:46 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php(23): ActiveRecord\Model->__get('payments')
+#3 [internal function]: ParticipantsController->register()
+#4 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#5 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#6 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:24:28 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 15:24:28 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 15:24:28 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 15:26:08 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php(115): ActiveRecord\Model->__get('payments')
+#3 [internal function]: ParticipantsController->racePackRegister()
+#4 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#5 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#6 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:26:57 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php(115): ActiveRecord\Model->__get('payments')
+#3 [internal function]: ParticipantsController->racePackRegister()
+#4 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#5 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#6 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:35:19 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 127
+[21-Jul-2016 15:35:19 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php:333
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php(333): PDOStatement->execute(Array)
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Table.php(360): ActiveRecord\Connection->query('INSERT INTO `ra...', Array)
+#2 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(842): ActiveRecord\Table->insert(Array)
+#3 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(797): ActiveRecord\Model->insert(true)
+#4 /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php(153): ActiveRecord\Model->save()
+#5 [internal function]: ParticipantsController->racePackRegister()
+#6 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Connection.php on line 336
+[21-Jul-2016 15:36:30 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'ActiveRecord\HasManyThroughAssociationException' with message 'Could not find the association participants in model Member' in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php:498
+Stack trace:
+#0 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(511): ActiveRecord\HasMany->load(Object(Member))
+#1 /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('payments')
+#2 /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php(115): ActiveRecord\Model->__get('payments')
+#3 [internal function]: ParticipantsController->racePackRegister()
+#4 /home/mockup/public_html/EmptySite/vendor/routing/router.php(139): call_user_func_array(Array, Array)
+#5 /home/mockup/public_html/EmptySite/index.php(148): Router->run()
+#6 {main}
+  thrown in /home/mockup/public_html/EmptySite/vendor/activerecord/lib/Relationship.php on line 498
+[21-Jul-2016 15:38:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 23
+[21-Jul-2016 15:39:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 23
+[21-Jul-2016 15:39:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 23
+[21-Jul-2016 15:39:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 23
+[21-Jul-2016 15:39:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 23
+[21-Jul-2016 15:39:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/mockup/public_html/EmptySite/controllers/ParticipantsController.php on line 23
+[21-Jul-2016 15:47:28 Asia/Jakarta] PHP Notice:  Undefined variable: discount in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 89
+[21-Jul-2016 15:47:28 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PaymentsController.php on line 289
+[21-Jul-2016 15:53:30 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 15:53:30 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 15:53:30 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:00:16 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:00:16 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:00:16 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:00:16 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:00:16 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:00:16 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:01:15 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:15 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:15 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:01:18 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:18 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:18 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:01:22 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:22 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:22 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:01:24 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:24 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:24 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:01:27 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:27 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:27 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:01:27 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:27 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:27 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:01:29 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:29 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:01:29 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:03 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:03 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:03 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:05 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:05 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:05 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:05 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:05 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:05 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:08 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:08 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:08 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:10 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:10 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:10 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:10 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:10 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:10 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:24 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:24 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:24 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:28 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:35 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:35 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:35 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:02:50 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:50 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:02:50 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:02:52 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:02:58 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:03:06 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:03:06 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:03:06 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:03:10 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:08:28 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:08:28 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:08:28 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:08:31 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:08:40 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:08:47 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:08:47 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:08:47 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:08:49 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:09:32 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:09:32 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:09:32 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:09:34 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:09:34 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:09:34 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:11:49 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:11:57 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:12:14 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:12:23 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:12:58 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:13:04 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:13:23 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:13:23 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:13:23 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:13:23 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:13:23 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:13:23 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:13:25 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:13:25 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:13:25 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:13:28 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:13:37 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:16:34 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:16:34 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:16:34 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:16:36 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:16:36 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:16:36 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:16:37 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:16:45 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:16:45 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:16:45 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:16:47 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:16:47 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:16:51 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:18:00 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:18:00 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:18:00 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:18:00 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:18:00 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:18:00 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:18:01 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:18:01 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:18:01 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:18:55 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:18:55 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:18:55 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:18:58 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:18:58 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:18:58 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:19:01 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:01 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:01 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:19:03 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:03 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:03 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:19:05 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:05 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:05 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:19:17 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:19:22 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:22 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:22 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:19:40 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:40 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:40 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:19:49 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:49 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:49 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:19:54 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:20:01 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:01 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:01 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:20:03 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:03 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:03 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:20:06 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:06 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:06 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:20:12 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:12 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:12 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:20:15 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:15 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:15 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:20:17 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:17 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:17 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:20:19 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:19 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:20:19 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:21:23 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:21:23 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:21:23 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:21:24 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:21:24 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:21:24 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:21:37 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:21:37 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:21:37 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:21:41 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:21:41 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:21:42 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:21:48 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:21:48 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:21:48 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:22:44 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:22:44 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:22:44 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:22:47 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:22:47 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:22:47 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:25:04 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:04 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:04 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:25:04 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:04 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:04 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:25:05 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:05 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:05 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:25:06 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:06 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:06 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:25:07 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:07 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:07 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:25:43 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:43 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:43 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:25:45 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:25:50 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:50 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:50 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:25:50 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:25:58 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:58 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:58 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:25:59 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:59 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:25:59 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:26:00 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:26:00 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:26:00 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:26:00 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:26:00 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:26:00 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:26:03 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:26:03 Asia/Jakarta] PHP Notice:  Undefined variable: cat in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 16
+[21-Jul-2016 16:26:03 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 67
+[21-Jul-2016 16:26:04 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 89
+[21-Jul-2016 16:28:56 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 16:29:00 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 16:29:07 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 16:29:07 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 16:29:21 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 16:29:32 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 16:29:37 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 16:29:44 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 16:30:01 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:10:46 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:13:02 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:13:10 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:13:20 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:13:30 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:13:47 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:14:53 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:18:10 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:18:29 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:18:44 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:22:20 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Undefined variable: voucher in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 17:47:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/AdminRaceResultsController.php on line 30
+[21-Jul-2016 22:09:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/mockup/public_html/EmptySite/views/shared/section_gallery.php on line 15
+[21-Jul-2016 22:09:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/mockup/public_html/EmptySite/views/shared/section_gallery.php on line 15
+[21-Jul-2016 22:10:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/mockup/public_html/EmptySite/views/shared/section_gallery.php on line 15
+[25-Jul-2016 01:05:31 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 26
+[25-Jul-2016 01:05:31 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[25-Jul-2016 01:05:31 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[25-Jul-2016 01:05:31 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[25-Jul-2016 01:05:31 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 01:05:59 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 01:06:27 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 04:53:10 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/mockup/public_html/EmptySite/controllers/PasswordsController.php on line 26
+[25-Jul-2016 15:04:47 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 15:07:01 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 15:07:15 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 15:30:05 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 15:30:05 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 15:30:06 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 15:30:06 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 15:30:06 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 15:33:05 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 15:34:56 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 15:35:25 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 90
+[25-Jul-2016 16:12:35 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PasswordsController.php on line 8
+[25-Jul-2016 16:13:14 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/PasswordsController.php on line 8
+[26-Jul-2016 11:24:36 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/mockup/public_html/EmptySite/controllers/PasswordsController.php on line 26
+[26-Jul-2016 14:06:07 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 14:06:07 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 14:06:07 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 14:08:29 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 14:08:29 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 14:08:29 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 14:09:21 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 14:09:21 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 14:09:21 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 14:09:46 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 14:09:46 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 14:09:46 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 14:11:12 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 14:11:12 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 14:11:12 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[26-Jul-2016 14:11:13 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 14:11:13 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 14:11:13 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 14:12:31 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 14:12:31 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 14:12:31 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[26-Jul-2016 14:12:33 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 14:12:33 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 14:12:33 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:07:20 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:07:20 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:07:20 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:25:50 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:25:50 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:25:50 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:28:51 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:28:51 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:28:51 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:31:45 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:31:45 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:31:45 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:32:39 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:32:39 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:32:39 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:34:40 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:34:40 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:34:40 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:41:30 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:41:30 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:41:30 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:45:03 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:45:03 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:45:03 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:45:22 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:45:22 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:45:22 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:47:11 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:47:11 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:47:11 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 15:52:55 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 15:52:55 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 15:52:55 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:00:15 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 16:00:15 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 16:00:15 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:01:12 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 26
+[26-Jul-2016 16:01:12 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:01:12 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:01:12 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[26-Jul-2016 16:01:13 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 95
+[26-Jul-2016 16:01:13 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 16:01:13 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 16:01:13 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:01:19 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/setting.php on line 59
+[26-Jul-2016 16:01:19 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/users/setting.php on line 198
+[26-Jul-2016 16:02:35 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:02:35 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:02:35 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[26-Jul-2016 16:02:36 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 16:02:36 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 16:02:36 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:05:17 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:05:17 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:05:17 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[26-Jul-2016 16:11:26 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 16:11:26 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 16:11:26 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:14:55 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 16:14:55 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 16:14:55 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:15:34 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 16:15:34 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 16:15:34 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:28:14 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:28:14 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:28:14 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[26-Jul-2016 16:30:12 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:30:12 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:30:12 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[26-Jul-2016 16:31:06 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:31:06 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 44
+[26-Jul-2016 16:31:06 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 45
+[26-Jul-2016 16:45:49 Asia/Jakarta] PHP Notice:  Undefined variable: member in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 215
+[26-Jul-2016 16:45:49 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 215
+[26-Jul-2016 16:52:35 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 50
+[26-Jul-2016 16:52:35 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 50
+[26-Jul-2016 16:52:35 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 51
+[26-Jul-2016 16:54:22 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 16:54:22 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 16:54:22 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:56:15 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 16:56:15 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 16:56:15 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:56:38 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 16:56:38 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 16:56:38 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:56:49 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 107
+[26-Jul-2016 16:56:49 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 134
+[26-Jul-2016 16:56:49 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 168
+[26-Jul-2016 16:57:51 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 108
+[26-Jul-2016 16:57:51 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 135
+[26-Jul-2016 16:57:51 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 169
+[26-Jul-2016 17:26:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:26:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:26:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:27:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:27:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:27:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:27:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:27:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:28:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:28:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:28:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:28:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:28:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:29:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:29:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:30:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:30:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:31:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':' in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 113
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:37:46 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:20 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:21 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:21 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:21 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:21 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:21 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:38:21 Asia/Jakarta] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/mockup/public_html/EmptySite/views/race_results/add_races.php on line 140
+[26-Jul-2016 17:55:52 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[26-Jul-2016 18:30:43 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[26-Jul-2016 18:30:53 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[26-Jul-2016 23:38:51 Asia/Jakarta] PHP Notice:  Undefined variable: year in /home/mockup/public_html/EmptySite/controllers/RaceResultsController.php on line 92
+[27-Jul-2016 09:36:58 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 108
+[27-Jul-2016 09:36:58 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 135
+[27-Jul-2016 09:36:58 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 169
+[27-Jul-2016 09:37:15 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/mockup/public_html/EmptySite/views/users/show.php on line 108
+[27-Jul-2016 09:37:15 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 135
+[27-Jul-2016 09:37:15 Asia/Jakarta] PHP Warning:  end() expects parameter 1 to be array, null given in /home/mockup/public_html/EmptySite/views/users/show.php on line 169
+[27-Jul-2016 10:38:33 Asia/Jakarta] PHP Notice:  Undefined variable: password_confirmation in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 50
+[27-Jul-2016 10:38:33 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 50
+[27-Jul-2016 10:38:33 Asia/Jakarta] PHP Notice:  Undefined variable: password in /home/mockup/public_html/EmptySite/controllers/UsersController.php on line 51
+[27-Jul-2016 12:20:42 Asia/Jakarta] PHP Warning:  include(models/MasterEvent.php): failed to open stream: No such file or directory in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:20:42 Asia/Jakarta] PHP Warning:  include(models/MasterEvent.php): failed to open stream: No such file or directory in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:20:42 Asia/Jakarta] PHP Warning:  include(): Failed opening 'models/MasterEvent.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:20:42 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class AdminEventsController in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 3
+[27-Jul-2016 12:20:49 Asia/Jakarta] PHP Warning:  include(models/MasterEvent.php): failed to open stream: No such file or directory in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:20:49 Asia/Jakarta] PHP Warning:  include(models/MasterEvent.php): failed to open stream: No such file or directory in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:20:49 Asia/Jakarta] PHP Warning:  include(): Failed opening 'models/MasterEvent.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:20:49 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class AdminEventsController in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 3
+[27-Jul-2016 12:21:09 Asia/Jakarta] PHP Warning:  include(models/MasterEvent.php): failed to open stream: No such file or directory in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:21:09 Asia/Jakarta] PHP Warning:  include(models/MasterEvent.php): failed to open stream: No such file or directory in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:21:09 Asia/Jakarta] PHP Warning:  include(): Failed opening 'models/MasterEvent.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:21:09 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class AdminEventsController in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 3
+[27-Jul-2016 12:21:12 Asia/Jakarta] PHP Warning:  include(models/MasterEvent.php): failed to open stream: No such file or directory in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:21:12 Asia/Jakarta] PHP Warning:  include(models/MasterEvent.php): failed to open stream: No such file or directory in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:21:12 Asia/Jakarta] PHP Warning:  include(): Failed opening 'models/MasterEvent.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 2
+[27-Jul-2016 12:21:12 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class AdminEventsController in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 3
+[27-Jul-2016 12:22:29 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class AdminEventsController in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 3
+[27-Jul-2016 12:22:31 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class AdminEventsController in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 3
+[27-Jul-2016 12:22:31 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class AdminEventsController in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 3
+[27-Jul-2016 12:22:36 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class AdminEventsController in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 3
+[27-Jul-2016 12:35:27 Asia/Jakarta] PHP Notice:  Undefined index: province_id in /home/mockup/public_html/EmptySite/controllers/AdminMasterEventsController.php on line 40

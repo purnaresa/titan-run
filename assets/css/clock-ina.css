@@ -1,0 +1,28 @@
+#countdown div.days::after {
+  content: "Hari" !important;
+  font-family: 'oswald';
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+#countdown div.hours::after {
+  content: "Jam" !important;
+  font-family: 'oswald';
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+#countdown div.min::after {
+  content: "Menit" !important;
+  font-family: 'oswald';
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+#countdown div.sec::after {
+  content: "Detik" !important;
+  font-family: 'oswald';
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 400;
+}

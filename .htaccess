@@ -1,0 +1,10 @@
+RewriteEngine On
+
+RewriteRule ^uploads/.*$ - [L]
+
+RewriteCond $0 !^assets/
+RewriteRule ^.*\.(gif|jpg|png|css|js|ttf|woff|woff2|JPG|pdf)$ assets/$0 [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]

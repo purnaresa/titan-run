@@ -1,0 +1,135 @@
+<?php include "views/shared/header.php"; ?>
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" style="background-color:#35363A;">
+  <?php include "views/shared/home_navigation.php";?>
+  <section class="title-gallery">
+    <div class="container">
+      <div class="col-sm-6">
+        <ol class="breadcrumb pull-left">
+          <li><a href="home">Home</a></li>
+          <li><a href="profile">Profile</a></li>
+          <li class="active">Race Pack and Shuttle Bus</li>
+        </ol>
+      </div>
+      <div class="col-sm-6">
+        <h4 class="pull-right">RACE PACK AND SHUTTLE BUS</h4>
+      </div>
+    </div>
+  </section>
+  <section class="profile-div bottom-space">
+    <div class="container">
+      <div class="row profile">
+        <h2>RACE ADDONS</h2>  
+         <form class="form-horizontal">
+          <div class="col-md-6"> 
+            <div class="checkbox">
+              <label class="col-sm-10 col-sm-offset-1">
+                <!-- <input type="checkbox">  --><h5>Pengantaran paket lomba / Race pack delivery</h5>
+              </label>
+            </div> 
+            <div class="col-sm-10 col-sm-offset-1">
+              <p class="warn-txt">
+                Saya ingin paket lomba saya diantar ke alamat yang saya isi di bawah. 
+                Saya setuju biaya pengantaran paket lomba sebesar Rp.25,000 dan saya
+                menyatakan alamat yang diisi adalah benar dan bertanggung jawab penuh atas kendala 
+                pengiriman seandainya alamat yang saya isi tidak benar.
+                Alamat pengantaran hanya berlaku di wilayah Indonesia
+              </p>
+              <hr>
+              <p class="warn-txt">
+                I want my race package delivered to the address I enter below. 
+                I agree the package-delivery costs amounting Rp.25,000 race and 
+                I declare that address filled in are correct and are fully responsible 
+                for delivery obstacles if the contents of the address I was not right. 
+                Delivery address is valid only in the territory of Indonesia
+              </p>
+            </div>
+            <div class="form-group">
+              <label for="names" class="col-sm-4 control-label">Alamat Lengkap</label>
+              <div class="col-sm-8 ">
+                <textarea type="text" class="form-control" rows="5" id="address"></textarea>
+              </div>
+            </div>
+            <div class="form-group" id="load-province">
+              <label for="address" class="col-sm-4 control-label">Provinsi</label>
+              <div class="col-sm-8 ">
+                 <select class="form-control" name="province_id" id="province_id" required>
+                  <option value="">--Select--</option>
+                  <?php foreach($provinces as $province): ?>
+                    <option value="<?php echo $province->id; ?>"><?php echo $province->name; ?></option>
+                  <?php endforeach; ?>
+                </select>
+              </div>
+            </div>
+            <div class="form-group" id="load-city">
+                
+            </div>
+            <div class="form-group">
+              <label for="address" class="col-sm-4 control-label">Kode Pos</label>
+              <div class="col-sm-8 ">
+                <input type="text" class="form-control" id="kodepos">
+              </div>
+            </div> 
+            <div class="form-group">
+              <label for="groupname" class="col-sm-4 control-label">No.Telepon</label>
+              <div class="col-sm-8 ">
+                <input type="text" class="form-control" id="telepon">
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6"> 
+            <div class="checkbox">
+              <label class="col-sm-9 col-sm-offset-3">
+                <input type="checkbox"> <h5>Layanan Bus Pengantaran / Shuttle Bus Service</h5>
+              </label>
+            </div> 
+            <div class="col-sm-9 col-sm-offset-3">
+              <p class="warn-txt">
+                Titan Run 2016 akan menyediakan bus pengantaran bagi para peserta dari 
+                (4) titik penjemputan di seluruh Jakarta.
+                Layanan bus pengantaran bebas biaya ini hanya berlaku untuk peserta Titan Run 2016. 
+                Bus Yang sama akan mengantarkan kembali peserta dari lokasi lomba mall @Alam Sutera 
+                kembali ke titik kapasitas terbatas sebanyak 432 kursi untuk 10 bus
+              </p>
+              <hr>
+              <p class="warn-txt">
+                Titan Run 2016 will provide a shuttle bus for participants from (4) 
+                pick-up points throughout Jakarta.
+                shuttle bus service free of charge only applies to participants 
+                Titan Run 2016. The same bus will take back the participants of the race mall 
+                locations @Alam Sutera back to the point
+                limited capacity of as many as 432  seats for 10 buses
+              </p>
+              <ul>
+                <li>FX Sudirman</li>
+                <li>Cilandak Town Square</li>
+                <li>Metropolitan Bekasi</li>
+                <li>Slipi Jaya</li>
+              </ul>
+              <hr>
+            </div>
+            <div class="form-group">
+              <label for="email" class="col-sm-3 control-label"></label>
+              <div class="col-sm-9 ">
+                <select class="form-control" name="shuttle_bus_id">
+                  <option value="">-----SELECT-----</option>
+                  <?php foreach($shuttles as $shuttle): ?>
+                    <option value="<?php echo $shuttle->id; ?>"><?php echo $shuttle->name; ?></option>
+                  <?php endforeach; ?>
+                </select>
+              </div>
+            </div>
+            
+            <div class="form-group">
+              <div class="col-sm-offset-2 col-sm-10">
+                <button class="btn-round-white pull-right nextBtn" type="button">Next</button> 
+              </div>
+            </div>
+          </div>
+
+        </form>
+      </div>
+    </div>
+  </section>
+  <?php include "views/shared/footer.php"; ?>
+</body>
