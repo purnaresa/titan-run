@@ -484,7 +484,7 @@ abstract class Connection
 	 */
 	public function string_to_datetime($string)
 	{
-		$date = date_create($string);
+		$date = date_create('UTC');
 		$errors = \DateTime::getLastErrors();
 
 		if ($errors['warning_count'] > 0 || $errors['error_count'] > 0)

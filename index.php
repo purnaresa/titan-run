@@ -16,11 +16,11 @@
   ActiveRecord\Config::initialize(function($cfg)
   {
     $cfg->set_model_directory('models');
-    $cfg->set_connections(array('development' => 'mysql://asep:password@localhost/db_titanrun'));
+    $cfg->set_connections(array('development' => 'mysql://root:Wrathskunk@localhost:3306/titan_run'));
    // $cfg->set_connections(array('production' => 'mysql://mockup:panmaydigital1234#@localhost/mockup_titanrun2016'));
    //http://image.titaninfra.com/phpmyadmin/index.php?token=183db3205ae47cf84eb7388b086b479e
-	$cfg->set_connections(array('production' => 'mysql://root@localhost/titanruntest'));
-
+	  $cfg->set_connections(array('production' => 'mysql://admin:Skunkmysql1.@mysql.csaode2owejp.ap-southeast-1.rds.amazonaws.com/titan_run'));
+// $cfg->set_connections(array('production' => 'mysql://root:Wrathskunk@localhost:3306/titan_run'));
 
 	
 	  

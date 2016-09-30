@@ -11,7 +11,7 @@
 
     public function index(){
       $shuttles = Shuttle::all();
-      $date = date('Y')-1;
+      $date = 2017;
       
       $gallery_conditions = array(
       'conditions'  => array('gallery_year = ?',$date),
