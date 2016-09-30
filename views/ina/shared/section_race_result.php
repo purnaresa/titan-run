@@ -16,7 +16,7 @@
         <h3>PERLOMBAAN</h3>
         <ul class="nav nav-tabs" role="tablist">
 <!--          <li role="presentation" style="cursor:pointer" class="active" onClick="set_year('2016')"><a role="tab" data-toggle="tab">2016</a></li> -->
-<li role="presentation" style="cursor:pointer" class="active"  onClick="loadFrame();"><a role="tab" data-toggle="tab">2016</a></li>
+<li role="presentation" style="cursor:pointer" class="active"  onClick="set_year('2016');"><a role="tab" data-toggle="tab">2016</a></li>
 
 <li role="presentation" style="cursor:pointer"  onClick="set_year('2015')"><a role="tab" data-toggle="tab">2015</a></li>
 <!-- <li role="presentation" style="cursor:pointer" onClick="loadFrame();"><a role="tab" data-toggle="tab">2015</a></li> -->
@@ -27,6 +27,8 @@
 
     <div class="clearfix"></div>
   
+        <input class="form-control" type="hidden" id="tahun_res" name="tahun_res" value="2016">
+        <input class="form-control" type="hidden" id="cat_res" name="cat_res" value="17.8K">
     <div class="tab-result">
       <!-- Nav tabs -->
       <div class="col-md-6" id='race-cat'>

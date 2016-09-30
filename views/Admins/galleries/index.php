@@ -17,6 +17,7 @@
           <tr>
             <th>#</th>
             <th>gallery</th>
+            <th>name</th>
             <th>year</th>
             <th>Action</th>
           </tr>
@@ -26,6 +27,7 @@
           <tr class="gradeX">
             <td><?php echo $key+1; ?></td>
             <td><img src='<?php echo '../'.$gallery->thumbnail_location.$gallery->thumbnail; ?>' class='img-responsive' /></td>
+            <td><?php echo $gallery->name; ?></td>
             <td><?php echo $gallery->gallery_year; ?></td>
             <td>
               <a href="edit-gallery<?php echo $gallery->id; ?>">Edit</a>

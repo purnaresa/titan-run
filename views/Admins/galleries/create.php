@@ -14,19 +14,19 @@
             <div class="mws-form-row">
               <label>Year</label>
               <div class="mws-form-item small">
-                <input type="text" class="mws-textinput" name="year" required />
+                <input type="text" class="mws-textinput" name="year" value="2016" required />
               </div>
             </div>
             <div class="mws-form-row">
               <label>Image</label>
               <div class="mws-form-item small">
-                <input type="file" class="mws-textinput" id='gallery' name="gallery" required/>
+                <input type="file" class="mws-textinput" id="gallery" name="gallery[]" multiple required/>
               </div>
             </div>
-            <div class="mws-form-row">
+            <div class="mws-form-row" style="display:none">
               <label>Thumbnail</label>
               <div class="mws-form-item small">
-                <input type="file" class="mws-textinput" id='thumbnail' name="thumbnail" required/>
+                <input type="file" class="mws-textinput" id='thumbnail' name="thumbnail[]" multiple />
               </div>
             </div>
             <div class="mws-button-row">

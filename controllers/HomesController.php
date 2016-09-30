@@ -11,11 +11,11 @@
 
     public function index(){
       $shuttles = Shuttle::all();
-      $date = 2017;
+      $date = '0000';
       
       $gallery_conditions = array(
       'conditions'  => array('gallery_year = ?',$date),
-      'order' => 'gallery_year desc', 'limit' => 15);
+      'order' => 'gallery_year desc');
 
       $galleries = Gallery::all($gallery_conditions);
 

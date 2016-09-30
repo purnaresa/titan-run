@@ -15,7 +15,7 @@
   <div class="container">
       <div class="row-pic2go pull-right">
         <a href="pic2go" target="_blank"><img src="img/pic2go-register.png" class="img-responsive"></a>
-        <a href="" data-toggle="modal" data-target="#galpic2go" ><img src="img/pic2go-gallery.png" class="img-responsive"></a>
+        <a href="http://pic2goindonesia.com/gallery/2016/titanrun/" target="_blank"  ><img src="img/pic2go-gallery.png" class="img-responsive"></a>
       </div>
     </div>
   <section class="foto-foto">

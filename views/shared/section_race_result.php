@@ -28,6 +28,8 @@
 
     <div class="clearfix"></div>
   
+        <input class="form-control" type="hidden" id="tahun_res" name="tahun_res" value="2016">
+        <input class="form-control" type="hidden" id="cat_res" name="cat_res" value="17.8K">
     <div class="tab-result">
       <!-- Nav tabs -->
       <div class="col-md-6" id='race-cat'>

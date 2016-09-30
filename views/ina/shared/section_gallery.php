@@ -10,7 +10,7 @@
        <!-- <h3>TITAN RUN 2016</h3> -->
 <div class="row-pic2go-sect">
           <a href="pic2go" target="_blank"><img src="img/pic2go-register.png" class="img-responsive"></a>
-          <a href="" data-toggle="modal" data-target="#galpic2go" ><img src="img/pic2go-gallery.png" class="img-responsive"></a>
+          <a href="http://pic2goindonesia.com/gallery/2016/titanrun/" target="_blank"  ><img src="img/pic2go-gallery.png" class="img-responsive"></a>
          </div>
       <!-- <a href="" class="pull-right btnpic2gogall" data-toggle="modal" data-target="#galpic2go" ><img src="img/pic2go-gallery.png" class="img-responsive"></a> -->
      </div>

@@ -18,13 +18,16 @@
   <div class="container">
       <div class="row-pic2go pull-right">
         <a href="pic2go" target="_blank"><img src="img/pic2go-register.png" class="img-responsive"></a>
-        <a href="" data-toggle="modal" data-target="#galpic2go" ><img src="img/pic2go-gallery.png" class="img-responsive"></a>
+        <a href="http://pic2goindonesia.com/gallery/2016/titanrun/" target="_blank"  ><img src="img/pic2go-gallery.png" class="img-responsive"></a>
       </div>
     </div>
   <section class="foto-foto">
     <div class="container">
       <div class="row">
         <div class='list-group gallery' id="gallery_photo">
+        <div class='pull-right col-sm-12'>
+			
+        </div>
           <?php foreach($galleries as $gallery): ?>
             <div class="col-sm-4 decreasepad">
               <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo $gallery->location.$gallery->name; ?>">
@@ -32,6 +35,28 @@
               </a>
             </div>
           <?php endforeach; ?>
+          <?php if($id>1)
+            {
+                //Go to previous page to show previous 10 items. If its in page 1 then it is inactive
+                echo "<a href='?id=".($id-1)."' class='button'>PREVIOUS</a></li> &nbsp;&nbsp;";
+            }
+            ?>
+            
+            <?php
+            //show all the page link with page number. When click on these numbers go to particular page. 
+                    for($i=1;$i<=$total;$i++)
+                    {
+                        if($i==$id) { echo "".$i." &nbsp;&nbsp;"; }
+                        
+                        else { echo "<a href='?id=".$i."'>".$i."</a> &nbsp;&nbsp;"; }
+                    }
+					
+					if($id!=$total)
+					{
+						////Go to previous page to show next 10 items.
+						echo "<a href='?id=".($id+1)."' class='button'>NEXT</a>&nbsp;&nbsp;";
+					}
+            ?>
         </div>
       </div>
     </div>

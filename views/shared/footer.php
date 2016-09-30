@@ -47,21 +47,18 @@
 <!-- Fadil Script -->
 <script type="text/javascript">
   function set_year(id){
-    $.post("setuserdata", {
-      type: 'Y',  
-      year: id
-    },   
-    function(respon){
-      $.post("race-results", '',   
-      function(respon){
-$('#race-cat').show();
-$('#well-result').addClass('well');
+    document.getElementById("tahun_res").value=id;
+	var cat_res = document.getElementById("cat_res").value;
+	var year_res = document.getElementById("tahun_res").value
+	$.post("race-results", {cat_res:cat_res,year_res:year_res},
+      function(respon) {
+		$('#race-cat').show();
         var table='';
         var table=respon.data;
         $('#data_res').html(table);
         $('#title_ab').html(respon.ttl);
-      },'json');
-    },'json');
+      },
+	'json');
   }
 
  function loadFrame(){
@@ -71,7 +68,7 @@ $('#well-result').addClass('well');
   }
 
   function set_cat(id){
-    $.post("setuserdata", {
+   /* $.post("setuserdata", {
       type: 'C',  
       cat: id
     },
@@ -84,7 +81,19 @@ $('#race-cat').show();
         $('#data_res').html(table);
         $('#title_ab').html(respon.ttl);
       },'json');
-    },'json');    
+    },'json');  */  
+	document.getElementById("cat_res").value=id;
+	var cat_res = document.getElementById("cat_res").value;
+	var year_res = document.getElementById("tahun_res").value
+	$.post("race-results", {cat_res:cat_res,year_res:year_res},
+      function(respon) {
+		$('#race-cat').show();
+        var table='';
+        var table=respon.data;
+        $('#data_res').html(table);
+        $('#title_ab').html(respon.ttl);
+      },
+	'json');
   }
 
   function show_modaldetailuser(id){

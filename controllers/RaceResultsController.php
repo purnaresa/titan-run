@@ -12,9 +12,9 @@ class RaceResultsController {
   }
 
   public function index(){
-  $year = $_SESSION["year"];
+  $year = $_POST["year_res"];
 
-  $cat = $_SESSION["category"];
+  $cat = $_POST["cat_res"];
     $race_conditions = array(
     'conditions'  => array('year like ? and category like ?','%'.$year.'%', '%'.$cat.'%'),
     'from'  => 'race_results',
@@ -90,7 +90,7 @@ class RaceResultsController {
         <img src="img/logotitan.png" style="float:left;" class="img-responsive">
         <h4>'.$race_result->name.'</h4>
         </div>';
-      echo json_encode(array('data' => $table,'ttl'=>'TITAN RUN '.$year));
+      echo json_encode(array('data' => $table,'ttl'=>'TITAN RUN '.$race_result->year));
     }
 
 public function removeEvent($id){
