@@ -19,17 +19,17 @@
     $cfg->set_connections(array('development' => 'mysql://asep:password@localhost/db_titanrun'));
    // $cfg->set_connections(array('production' => 'mysql://mockup:panmaydigital1234#@localhost/mockup_titanrun2016'));
    //http://image.titaninfra.com/phpmyadmin/index.php?token=183db3205ae47cf84eb7388b086b479e
-	$cfg->set_connections(array('production' => 'mysql://root@localhost/titanruntest'));
+	$cfg->set_connections(array('production' => 'mysql://root:root@localhost/titanruntest'));
 
 
-	
-	  
+
+
     // you can change the default connection with the below
     $cfg->set_default_connection('production');
   });
 
   $route = new Router();
-  
+
   $route->map("admin", "Admins::admin");
   $route->map("admin/dashboards", "Admins::index");
   $route->map("admin/login", "Admins::login");
@@ -139,7 +139,7 @@
   $route->map("payment-list", "Participants::payments");
   $route->map("edit-race-pack:id","Participants::editRacePack",array("id"=>"[0-9]+"));
   $route->map("check-shuttle","Participants::checkShuttle");
-  
+
   $route->map("add-races", "RaceResults::addRaces");
   $route->map("load-charts", "RaceResults::loadCharts");
   $route->map("race-results", "RaceResults::index");
@@ -156,7 +156,7 @@
   $route->map("remove-shuttle", "Payments::removeShuttle");
 
   $route->map("remove-event:id", "RaceResults::removeEvent", array("id"=>"[0-9]+"));
-  
+
   $route->map("admin/delete-gallery:id", "AdminGalleries::delete",array("id"=>"[0-9]+"));
   $route->map("admin/edit-gallery:id", "AdminGalleries::edit",array("id"=>"[0-9]+"));
   $route->map("admin/new-gallery", "AdminGalleries::create");
