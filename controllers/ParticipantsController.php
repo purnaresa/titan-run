@@ -43,10 +43,10 @@
 
           if (!empty($_SESSION['run_category'])) {
               $occupations = Occupation::all();
-              $events = Event::all();
-              $relateds = RelatedInformation::all();
-              $apps = FavouriteApp::all();
-              $groups = Group::all();
+              $events      = Event::all();
+              $relateds    = RelatedInformation::all();
+              $apps        = FavouriteApp::all();
+              $groups      = Group::all();
           } else {
               $categories = Category::all();
           }
@@ -57,41 +57,41 @@
                   header('Location: participant-register');
                   exit;
               } else {
-                  $bib_name = $_POST['bib_name'];
-                  $emergency_contact_name = $_POST['emergency_contact_name'];
+                  $bib_name                 = $_POST['bib_name'];
+                  $emergency_contact_name   = $_POST['emergency_contact_name'];
                   $emergency_contact_number = $_POST['emergency_contact_number'];
-                  $group_name = $_POST['group_name'];
-                  $occupation = $_POST['occupation_id'];
-                  $blood_type = $_POST['blood_type'];
-                  $medical_condition = $_POST['medical_condition'];
-                  $medical_desc = $_POST['medical_desc'];
-                  $first_run = $_POST['first_run'];
-                  $best_time = $_POST['best_time'];
-                  $event_information = $_POST['event_information'];
-                  $related_information = $_POST['related_information'];
-                  $favorit_run_app = $_POST['favorit_run_app'];
-                  $tshirt_size = $_POST['tshirt_size'];
+                  $group_name               = $_POST['group_name'];
+                  $occupation               = $_POST['occupation_id'];
+                  $blood_type               = $_POST['blood_type'];
+                  $medical_condition        = $_POST['medical_condition'];
+                  $medical_desc             = $_POST['medical_desc'];
+                  $first_run                = $_POST['first_run'];
+                  $best_time                = $_POST['best_time'];
+                  $event_information        = $_POST['event_information'];
+                  $related_information      = $_POST['related_information'];
+                  $favorit_run_app          = $_POST['favorit_run_app'];
+                  $tshirt_size              = $_POST['tshirt_size'];
 
                   $attributes = array(
-          'emergency_contact_name' => $emergency_contact_name,
-          'bib_name' => $bib_name,
-          'phone' => $emergency_contact_number,
-          'group_name' => $group_name,
-          'blood_type' => $blood_type,
-          'first_run' => $first_run,
-          'occupation_id' => $occupation,
-          'medical' => $medical_condition,
-          'medical_desc' => $medical_desc,
-          'event_id' => $event_information,
-          'related_information_id' => $related_information,
-          'favourite_app_id' => $favorit_run_app,
-          'tshirt_size' => $tshirt_size,
-          'member_id' => $user['id'],
-          'category_id' => $_SESSION['run_category'],
-          'create_at' => date('Y-m-d'),
-          'update_date' => date('Y-m-d'),
-          'best_time' => $best_time,
-         );
+                    'emergency_contact_name' => $emergency_contact_name,
+                    'bib_name'               => $bib_name,
+                    'phone'                  => $emergency_contact_number,
+                    'group_name'             => $group_name,
+                    'blood_type'             => $blood_type,
+                    'first_run'              => $first_run,
+                    'occupation_id'          => $occupation,
+                    'medical'                => $medical_condition,
+                    'medical_desc'           => $medical_desc,
+                    'event_id'               => $event_information,
+                    'related_information_id' => $related_information,
+                    'favourite_app_id'       => $favorit_run_app,
+                    'tshirt_size'            => $tshirt_size,
+                    'member_id'              => $user['id'],
+                    'category_id'            => $_SESSION['run_category'],
+                    'create_at'              => date('Y-m-d'),
+                    'update_date'            => date('Y-m-d'),
+                    'best_time'              => $best_time,
+                   );
 
                   $user_participant = new Participant($attributes);
                   $user_participant->status = false;
@@ -101,6 +101,7 @@
                   }
               }
           }
+
           include 'views/participants/register.php';
       }
 

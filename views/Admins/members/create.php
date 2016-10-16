@@ -13,14 +13,21 @@
                 <div class="mws-panel-body">
                     <form class="mws-form" method="post" enctype='multipart/form-data'>
                         <div class="mws-form-inline">
-                            <div class="mws-form-row">
-                              <?php if (isset($errors)): ?>
+                          <?php if (isset($errors)): ?>
+                            <div class="mws-form-message error">
+                              <ul>
                                 <?php foreach ($errors as $key => $error): ?>
-                                  <?php echo $error . '<br />'; ?>
-                                <?php endforeach; ?>
-                              <?php endif; ?>
-                              <?php if(isset($message)){echo $message;}?>
-                            </div>
+                                  <?php echo '<li>' . $error . '<li />'; ?>
+                                  <?php endforeach; ?>
+                                </ul>
+                              </div>
+                            <?php endif; ?>
+
+                            <?php if (isset($message)): ?>
+                              <div class="mws-form-message error">
+                                <?php echo $message; ?>
+                              </div>
+                            <?php endif; ?>
                             <div class="mws-form-row">
                                 <label>Name</label>
                                 <div class="mws-form-item large">

@@ -108,7 +108,6 @@ class AdminMembersController
                 if ($user->is_valid()) {
                     if ($user->save()) {
                         $this->sendEmail($user, 'http://mockup.panenmaya.com/EmptySite/verify');
-                        $message = "<div class='alert alert-danger'><span class='glyphicon glyphicon-info-sign'></span> &nbsp; please login to see your profile</div>";
                         header('Location: detail' . $user->id);
                         exit;
                     }
