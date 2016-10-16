@@ -22,6 +22,78 @@ class AdminMembersController
         $avatarPath = "../" . $member->avatar;
         $member->avatar = ($member->avatar === "" || ($member->avatar !== "" && !file_exists($avatarPath))) ? 'http://placehold.it/150' : $avatarPath;
 
+        if (isset($_POST['submit'])) {
+            $isPasswordValid = true;
+
+            if (strlen($_POST['password']) > 1 && strlen($_POST['password']) < 7) {
+                $message = "<div class='alert alert-danger'><span class='glyphicon glyphicon-info-sign'></span> &nbsp; password too weak</div>";
+                $isPasswordValid = false;
+            }
+
+            if ((bool) $_POST['password'] === $_POST['password_confirmation']) {
+                $message = "<div class='alert alert-danger'><span class='glyphicon glyphicon-info-sign'></span> &nbsp; confirmation password didn't match</div>";
+                $isPasswordValid = false;
+            }
+
+            if ($isPasswordValid) {
+                $image        = new Bulletproof\Image($_FILES);
+                $first_name   = $_POST['first_name'];
+                $last_name    = $_POST['last_name'];
+                $password     = $_POST['password'];
+                $dob          = date_format(date_create_from_format('d/m/Y', $_POST['dob']), 'Y-m-d');
+                $gender       = $_POST['gender'];
+                $province_id  = $_POST['province_id'];
+                $city_id      = $_POST['city_id'];
+                $address      = $_POST['address'];
+                $phone        = $_POST['phone'];
+                $id_number    = $_POST['id_number'];
+                $organization = $_POST['organization'];
+
+                //upload file
+                $avatar = "";
+                if ($image['avatar']) {
+                    $dir = 'uploads/avatar/'.$first_name.'-'.$last_name.$id_number.'/';
+                    if (!is_dir($dir)) {
+                        $mkdir = mkdir($dir, 0777, true);
+                    }
+                    move_uploaded_file($_FILES['avatar']['tmp_name'], $dir.$_FILES['avatar']['name']);
+                    $avatar = $dir.$_FILES['avatar']['name'];
+                }
+
+                $attributes = array(
+                  'first_name'   => $first_name,
+                  'last_name'    => $last_name,
+                  'dob'          => $dob,
+                  'gender'       => $gender,
+                  'country_id'   => 101, //TODO: remove this hardcoded country_id
+                  'province_id'  => $province_id,
+                  'city_id'      => $city_id,
+                  'address'      => $address,
+                  'phone'        => $phone,
+                  'id_number'    => $id_number,
+                  'avatar'       => $avatar,
+                  'organization' => $organization,
+                  'status'       => true,
+                  'token'        => NULL
+                );
+
+                if ($password > 8) {
+                  $attributes['password'] = md5($password);
+                }
+
+                if ($member->update_attributes($attributes)) {
+                  header('Location: detail' . $member->id);
+                  exit;
+                }
+
+                $errors = $member->errors;
+            }
+        }
+
+        $countries = Country::all();
+        $provinces = Province::all();
+        $cities = City::find_all_by_province_id($member->province_id);
+
         include 'views/Admins/members/show.php';
     }
 
