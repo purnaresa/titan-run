@@ -188,7 +188,51 @@ class AdminMembersController
 
     public function addMemberRacePack($id)
     {
-      # code...
+      $shuttles  = Shuttle::all();
+      $provinces = Province::find_all_by_pack(true);
+      $delivery  = DeliveryPrice::find('last');
+      $member    = Member::find($id);
+
+      if (isset($_POST['submit'])) {
+          $name           = $_POST['name'];
+          $email          = $member->email;
+          $address        = $_POST['address'];
+          $province       = $_POST['province_id'];
+          $city           = $_POST['city_id'];
+          $post_code      = $_POST['post_code'];
+          $phone          = $_POST['phone'];
+          $shuttle_bus_id = $_POST['shuttle_bus_id'];
+
+          $attributes = array(
+            'name'           => $name,
+            'email'          => $email,
+            'address'        => $address,
+            'city_id'        => $city,
+            'province_id'    => $province,
+            'postal_code'    => $post_code,
+            'phone'          => $phone,
+            'shuttle_id'     => $shuttle_bus_id,
+            'create_at'      => date('Y-m-d'),
+            'update_date'    => date('Y-m-d'),
+            'participant_id' => $participant_id,
+          );
+
+          if (!empty($name)) {
+              $race_pack = new RacePack($attributes);
+              $race_pack->price = $delivery->price;
+              $race_pack->save();
+          }
+
+          if (!empty($shuttle_bus_id)) {
+              $memberShuttle = array('participant_id' => $participant_id, 'shuttle_id' => $shuttle_bus_id);
+              $member_shuttle = new ParticipantShuttle($memberShuttle);
+              $member_shuttle->save();
+          }
+
+          // TODO: payment list
+      }
+
+      include 'views/Admins/members/addMemberRacePack.php';
     }
 
     private function sendEmail($member, $url)
