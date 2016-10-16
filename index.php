@@ -113,6 +113,9 @@
   $route->map("admin/race-results", "AdminRaceResults::index");
   $route->map("admin/export-race-results", "AdminRaceResults::export");
 
+  // json helper
+  $route->map("cities/getByProvinceId/:provinceId/:response", "AdminCities::getByProvinceId", array('provinceId' => "[0-9]+"), array('response' => "(json|html)"));
+
   $route->map("", "Homes::index");
   $route->map("home", "Homes::index");
   $route->map("setuserdata", "Homes::setUserData");

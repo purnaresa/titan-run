@@ -63,5 +63,22 @@ class AdminCitiesController{
       exit;
     }
   }
+
+  public function getByProvinceId($provinceId, $response = "json")
+  {
+    if ($response === "json") {
+      $cities = City::find_all_by_province_id($provinceId);
+      $response = [];
+      foreach ($cities as $cityIndex => $city) {
+        array_push($response, $city->to_array([
+          'only' => ['id', 'name']
+        ]));
+      }
+
+      header('Content-Type: application/json');
+      echo json_encode($response);
+      return;
+    }
+  }
 }
 ?>
