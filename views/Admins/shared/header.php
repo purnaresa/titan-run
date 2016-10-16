@@ -72,6 +72,7 @@
 <script type="text/javascript" src="plugins/sourcerer/Sourcerer-1.2-min.js"></script>
 <script type="text/javascript" src="plugins/placeholder/jquery.placeholder-min.js"></script>
 <script type="text/javascript" src="plugins/validate/jquery.validate-min.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
 
 <!-- Core Script -->
 <!-- <script type="text/javascript" src="js/mws.js"></script> -->
