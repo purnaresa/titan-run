@@ -53,6 +53,7 @@
   $route->map("admin/members", "AdminMembers::index");
   $route->map("admin/detail:id", "AdminMembers::show",array("id"=>"[0-9]+"));
   $route->map("admin/delete:id", "AdminMembers::delete",array("id"=>"[0-9]+"));
+  $route->map("admin/membersadd", "AdminMembers::add");
 
   $route->map("admin/provinces", "AdminProvinces::index");
   $route->map("admin/new-province", "AdminProvinces::create");

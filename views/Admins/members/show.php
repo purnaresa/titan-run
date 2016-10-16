@@ -9,7 +9,7 @@
         <span class="mws-i-24 i-list">
           <?php echo $member->first_name.' '.$member->last_name; ?></span>
           <br />
-          <img src="<?php echo ($member->avatar === "") ? 'http://placehold.it/150' : '../'.$member->avatar; ?>">
+          <img src="<?php echo $member->avatar; ?>">
       </div>
       <div class="mws-panel-body">
         <form class="mws-form" action="form_layouts.html">
