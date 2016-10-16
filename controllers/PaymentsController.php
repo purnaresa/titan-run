@@ -13,7 +13,7 @@
 
       $user = $_SESSION['user'];
       $member = Member::find_by_id($user['id']);
-      
+
       $payment = new Payment();
 
       if(isset($_POST['submit'])){
@@ -43,16 +43,16 @@
           $expired_date = date_format($voucher->expire_date, 'Y-m-d');
 
           $voucher_price = $voucher->master_voucher->nilai;
-          
+
           $shuttle_price = !empty($_SESSION['shuttle']) ? 0 : $shuttle_price;
-          $race_delivery = !empty($_SESSION['pack']) ? 0 : $race_delivery;          
-          
+          $race_delivery = !empty($_SESSION['pack']) ? 0 : $race_delivery;
+
           if($voucher->master_voucher->type == 'persentase'){
             $discount = ($category_price+$race_delivery+$shuttle_price)*$voucher->master_voucher->nilai;
           }else{
             $discount = ($category_price+$race_delivery+$shuttle_price) - ($voucher->master_voucher->nilai);
           }
-          
+
           $amount = ($category_price+$race_delivery+$shuttle_price) - $discount;
 
           if($date <= $expired_date){
@@ -128,7 +128,7 @@
       $voucher_code = @$_POST['voucher_code'];
       $voucher = Voucher::find_by_code_and_used($voucher_code, false);
       if(!empty($voucher)){
-        if($voucher->expire_date > $date){
+        if(date_timestamp_get(date_create($voucher->expire_date)) > date_timestamp_get(date_create())){
           $price = $voucher->master_voucher->nilai;
           $type = $voucher->master_voucher->type;
           $message = null;
@@ -218,14 +218,14 @@
 	      	<div align="middle">
 	      		<img src="http://titan-run.id/img/logotitan.png" alt="logo titan run">
 	      	</div>
-	        <h1>Thank You</h1>   
-	      </hgroup>      
+	        <h1>Thank You</h1>
+	      </hgroup>
 	    </div>
 	    <div class="section1">
 	      <h1>Payment Details</h1>
 	      <hr style="border:1px solid #AABCCF;">
 	      <p>'.$member->first_name.' '.$member->last_name.',<br>Terima kasih, transaksi Anda berhasil, berikut adalah informasi: </p>';
-      
+
       $message .= '<table class="tg">
 				  <tr>
 				    <td class="tg-yw4l">Status transaksi</td>
@@ -259,7 +259,7 @@
 				    <td class="tg-yw4l" colspan="2">Berikut rincian pesanan anda :</td>
 				  </tr>
 				</table><br />';
-      
+
       $message .= '<table class="tg" style="width:100%;">
 				  <tr>
 				    <th class="tg-yw4l borderedtop">Nama</th>
@@ -310,10 +310,10 @@
 	</div>
 </body>
 </html>';
-      
+
       $msg = "<div class='alert alert-success'><span class='glyphicon glyphicon-info-sign'></span> &nbsp; successfully registered, please login !</div>";
-      
+
       mail($member->email, $subject, $message, implode("\r\n", $headers));
-    }  
+    }
   }
 ?>

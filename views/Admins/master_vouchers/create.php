@@ -16,10 +16,8 @@
                   <div class="mws-form-item small">
                     <select name="type" required>
                       <option value="">---select---</option>
-                      <?php foreach($master_vouchers as $master_voucher): ?>
                       <option value="persentase">persentase</option>
                       <option value="nilai">nilai</option>
-                      <?php endforeach; ?>
                     </select>
                   </div>
                 </div>
