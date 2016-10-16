@@ -34,7 +34,7 @@
             <td><?php echo $member->email; ?></td>
             <td><?php echo $member->gender; ?></td>
             <td><?php echo $member->organization; ?></td>
-            <td><?php echo $member->city->name; ?></td>
+            <td><?php echo (is_null($member->city)) ? '' : $member->city->name; ?></td>
             <td><?php echo $member->phone; ?></td>
             <td><?php echo $member->status ? 'verified' : 'unverified'; ?></td>
             <td>

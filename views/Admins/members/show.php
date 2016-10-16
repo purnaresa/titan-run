@@ -9,7 +9,7 @@
         <span class="mws-i-24 i-list">
           <?php echo $member->first_name.' '.$member->last_name; ?></span>
           <br />
-          <img src="<?php echo '../'.$member->avatar; ?>">
+          <img src="<?php echo ($member->avatar === "") ? 'http://placehold.it/150' : '../'.$member->avatar; ?>">
       </div>
       <div class="mws-panel-body">
         <form class="mws-form" action="form_layouts.html">
@@ -35,7 +35,7 @@
             <div class="mws-form-row">
               <label>City</label>
               <div class="mws-form-item large">
-                <label><?php echo $member->city->name; ?></label>
+                <label><?php echo (is_null($member->city)) ? '' : $member->city->name; ?></label>
               </div>
             </div>
             <div class="mws-form-row">
@@ -59,7 +59,7 @@
             <div class="mws-form-row">
               <label>Country</label>
               <div class="mws-form-item clearfix">
-                <label><?php echo $member->country->name; ?></label>
+                <label><?php echo (is_null($member->country)) ? '' : $member->country->name; ?></label>
               </div>
             </div>
             <div class="mws-form-row">
@@ -77,7 +77,7 @@
             <div class="mws-form-row">
               <label>Province</label>
               <div class="mws-form-item clearfix">
-                <label><?php echo $member->province->name; ?></label>
+                <label><?php echo (is_null($member->province)) ? '' : $member->province->name; ?></label>
               </div>
             </div>
             <div class="mws-form-row">
@@ -116,7 +116,7 @@
               <td><?php echo $participant->category->name; ?></td>
               <td><?php echo $participant->group_name; ?></td>
               <td><?php echo date_format($participant->create_at, 'Y-m-d'); ?></td>
-              <td><?php echo $participant->occupation->name; ?></td>
+              <td><?php echo (is_null($participant->occupation)) ? '' : $participant->occupation->name; ?></td>
               <td><?php echo $participant->tshirt_size; ?></td>
               <td><?php echo $participant->status ? 'pay' : 'unpay'; ?></td>
               <!-- <td>
