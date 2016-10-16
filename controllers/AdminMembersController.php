@@ -99,12 +99,11 @@ class AdminMembersController
                   'id_number'    => $id_number,
                   'avatar'       => $avatar,
                   'organization' => $organization,
+                  'status'       => true,
+                  'token'        => NULL
                 );
 
                 $user = new Member($attributes);
-                $user->status = false;
-                $user->token = $this->generateToken();
-                $user->created_at = date('Y-m-d');
 
                 if ($user->is_valid()) {
                     if ($user->save()) {
@@ -170,17 +169,5 @@ class AdminMembersController
         $msg = "<div class='alert alert-success'><span class='glyphicon glyphicon-info-sign'></span> &nbsp; successfully registered, please login !</div>";
 
         mail($member->email, $subject, $message, implode("\r\n", $headers));
-    }
-
-    private function generateToken($length = 10)
-    {
-        $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
-        $charactersLength = strlen($characters);
-        $randomString = '';
-        for ($i = 0; $i < $length; ++$i) {
-            $randomString .= $characters[rand(0, $charactersLength - 1)];
-        }
-
-        return $randomString;
     }
 }
