@@ -16,16 +16,15 @@
   ActiveRecord\Config::initialize(function($cfg)
   {
     $cfg->set_model_directory('models');
-    $cfg->set_connections(array('development' => 'mysql://asep:password@localhost/db_titanrun'));
-   // $cfg->set_connections(array('production' => 'mysql://mockup:panmaydigital1234#@localhost/mockup_titanrun2016'));
-   //http://image.titaninfra.com/phpmyadmin/index.php?token=183db3205ae47cf84eb7388b086b479e
-	$cfg->set_connections(array('production' => 'mysql://root:root@localhost/titanruntest'));
-
-
-
+    //http://image.titaninfra.com/phpmyadmin/index.php?token=183db3205ae47cf84eb7388b086b479e
+    $cfg->set_connections(array(
+      'production'  => 'mysql://mockup:panmaydigital1234#@localhost/mockup_titanrun2016',
+      'staging'     => 'mysql://khaer.ansori:khaer.ansori@mysql.csaode2owejp.ap-southeast-1.rds.amazonaws.com/titan_run_dev',
+      'development' => 'mysql://root:root@localhost/titanruntest'
+    ));
 
     // you can change the default connection with the below
-    $cfg->set_default_connection('production');
+    $cfg->set_default_connection('staging');
   });
 
   $route = new Router();
